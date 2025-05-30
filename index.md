@@ -1,13 +1,6 @@
 ---
-title: "[Nature] Accurate structure prediction of biomolecular interactions with AlphaFold 3"
-description: "A comprehensive overview of Google DeepMind's AlphaFold 3, explaining how its innovative diffusion-based approach accurately predicts structures across diverse biomolecular complexes."
-published: 2025-05-23
-bibliography: ./assets/bibliography/2025-05-23-20223492.bib
-authors:
-  - author: Wonbin Lee
-    affiliations:
-      - name: KAIST
-katex: true
+title: "AI810 Blog Post 20223492 : Accurate structure prediction of biomolecular interactions with AlphaFold 3"
+layout: default
 ---
 
 
