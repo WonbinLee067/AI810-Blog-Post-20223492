@@ -1,6 +1,5 @@
 ---
-title: "[Nature] Accurate structure prediction of biomolecular interactions with AlphaFold 3"
-description: "A comprehensive overview of Google DeepMind's AlphaFold 3, explaining how its innovative diffusion-based approach accurately predicts structures across diverse biomolecular complexes."
+title: "AI810-Blog-Post-20223492 - [Arxiv] A foundation model for atomistic materials chemistry"
 published: 2025-05-22
 bibliography: ./assets/bibliography/2025-05-22-20223492.bib
 authors:
@@ -9,16 +8,6 @@ authors:
       - name: KAIST
 katex: true
 ---
-
-# Contents
---------
-
-[Introduction](#section-1)
-[Model Architecture](#section-2)
-[Training Methodology](#section-3)
-[Performance](#section-4)
-[Implications and Limitations](#section-5)
-[Conclusion](#section-6)
 
 ![](main_figure.PNG)
 
